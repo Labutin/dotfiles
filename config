@@ -1,0 +1,8 @@
+Host *
+    # Always use SSH2.
+    Protocol 2
+    
+    ServerAliveInterval 20
+    ServerAliveCountMax 10
+    TCPKeepAlive yes
+    Compression yes
