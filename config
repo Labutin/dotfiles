@@ -1,3 +1,5 @@
+# symlink to ~/.ssh/config
+
 Host *
     # Always use SSH2.
     Protocol 2
