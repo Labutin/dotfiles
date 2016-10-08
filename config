@@ -8,3 +8,4 @@ Host *
     ServerAliveCountMax 10
     TCPKeepAlive yes
     Compression yes
+    AddKeysToAgent yes
